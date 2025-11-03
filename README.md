@@ -1,31 +1,31 @@
-Nashville Housing Data Cleaning Project (SQL Server)
+**Nashville Housing Data Cleaning Project (SQL Server)**
 
-Overview
+**Overview**
 This project focuses on cleaning and preparing a real estate dataset (Nashville Housing) for analysis using SQL Server.
 The objective was to transform raw, inconsistent housing data into a structured and analysis-ready format through systematic data cleaning techniques.
 
 Through this project, I practised data wrangling, query optimisation, and SQL-based transformation logic — key skills for any data analyst
 
-Dataset Description
+**Dataset Description**
 The dataset (dbo.NashvilleHousing) contains housing transaction records, including:
 
 - Property details (address, parcel ID, tax district, etc.)
 - Sale information (price, date, legal reference)
 - Ownership and location information
 
-Objectives
+**Objectives**
 1. Standardise data formats (especially dates)
 2. Handle missing or duplicated data
 3. Split complex text fields into usable components
 4. Standardise categorical values
 5. Remove redundant and unnecessary columns
 
-Tools & Technologies
+**Tools & Technologies**
 - SQL Server Management Studio 2021 (SSMS)
 - T-SQL (Transact-SQL)
 - SQL concepts: CTEs, String Functions, CASE, Aggregation, DML Commands
-
-Data Cleaning Steps
+**
+Data Cleaning Steps**
 1. Standardise Date Format
 2. Populate Missing Property Addresses
 3. Split Property & Owner Addresses

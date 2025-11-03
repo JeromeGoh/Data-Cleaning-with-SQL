@@ -2,9 +2,7 @@
 
 **Overview**
 This project focuses on cleaning and preparing a real estate dataset (Nashville Housing) for analysis using SQL Server.
-The objective was to transform raw, inconsistent housing data into a structured and analysis-ready format through systematic data cleaning techniques.
-
-Through this project, I practised data wrangling, query optimisation, and SQL-based transformation logic — key skills for any data analyst
+The objective was to transform raw, inconsistent housing data into a structured and analysis-ready format through systematic data cleaning techniques. Through this project, I practised data wrangling, query optimisation, and SQL-based transformation logic — key skills for any data analyst
 
 **Dataset Description**
 The dataset (dbo.NashvilleHousing) contains housing transaction records, including:

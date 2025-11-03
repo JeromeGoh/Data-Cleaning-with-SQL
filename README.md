@@ -8,7 +8,7 @@ Through this project, I practised data wrangling, query optimisation, and SQL-ba
 
 **Dataset Description**
 
-The dataset (dbo.NashvilleHousing) contains housing transaction records, including:
+_**The dataset (dbo.NashvilleHousing) contains housing transaction records, including:**_
 
 - Property details (address, parcel ID, tax district, etc.)
 - Sale information (price, date, legal reference)
